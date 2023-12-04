@@ -1,0 +1,38 @@
+Quesion 1 What are conditional statements? Explain conditional statements with syntax and examples.
+Answer conditional are statements that decides the behaviour of the code. For example we want our code
+to respond differntly for differnt conditons. 
+Below are the example of differnt conditional statements
+
+if (condition) {
+    
+}
+------ If else conditon-------
+if (condition) {
+    
+} else {
+    
+}
+
+------ Switch Case statement -------
+switch (key) {
+    case value:
+        
+        break;
+
+    default:
+        break;
+}
+
+------ Do WHile -------
+
+do {
+    
+} while (condition);
+
+------ for loop -------
+for (let index = 0; index < array.length; index++) {
+    const element = array[index];
+    
+}
+
+These are the basic conditonal in java script
